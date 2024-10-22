@@ -110,16 +110,22 @@ Dasturlash asoslari
 #        print(son)
    
 
-son = 1
-while son>0:
+#son = 1
+#while son>0:
+#    son += 1
+#    if son%2!=0:
+#        continue
+#    else:
+#        print(son)
+
+
+son = 0
+while son<10:
     son += 1
     if son%2!=0:
         continue
     else:
         print(son)
-
-
-
 
 
 
